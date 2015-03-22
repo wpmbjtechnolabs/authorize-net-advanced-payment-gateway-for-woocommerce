@@ -1,0 +1,176 @@
+# Copyright (C) 2015 Authorize.net Advanced Payment Gateway For WooCommerce
+# This file is distributed under the same license as the Authorize.net Advanced Payment Gateway For WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Authorize.net Advanced Payment Gateway For WooCommerce "
+"1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/authorizenet-"
+"advanced-payment-gateway-for-woocommerce\n"
+"POT-Creation-Date: 2015-03-04 04:20:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-authorize-net-advanced-payment-gateway-for-woocommerce-admin.php:71
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:18
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:20
+msgid "Authorize.net"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:19
+msgid ""
+"Authorize.net payment gateway to provide secure and powerful payment "
+"processing for your Online store"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:53
+msgid "Authorize.net Advanced Payment Gateway"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:58
+msgid "Getting started"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:59
+msgid ""
+"Authorize.net is one of the most popular payment processors around for a "
+"reason: they offer easy, safe, and affordable credit card processing. This "
+"advanced payment gateway integration offers powerful fraud prevention tools, "
+"along with easy-to-use online account access. View your transactions online "
+"and quickly make changes to customer profiles as needed. All Authorize.net "
+"accounts include free award-winning support via phone, chat, and email."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:61
+msgid "Sign Up Now"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:61
+msgid "Learn more"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:65
+msgid ""
+"Simplify Commerce is your merchant account and payment gateway all rolled "
+"into one. Choose Simplify Commerce as your WooCommerce payment gateway to "
+"get access to your money quickly with a powerful, secure payment engine "
+"backed by MasterCard."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:81
+msgid "Enable / Disable"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:82
+msgid "Enable Authorize.net payment gateway"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:87
+msgid "Title"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:89
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:90
+msgid "Credit card"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:93
+msgid "Description"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:95
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:96
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:100
+msgid "Authorize.net API Login"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:102
+msgid ""
+"This is the API Login provided by Authorize.net when you signed up for an "
+"account."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:105
+msgid "Authorize.net Transaction Key"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:107
+msgid ""
+"This is the Transaction Key provided by Authorize.net when you signed up for "
+"an account."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:110
+msgid "Authorize.net Test Mode"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:111
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:113
+msgid "Place the payment gateway in test mode."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:117
+msgid "Debug Log"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:119
+msgid "Enable logging"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:121
+msgid "Log transaction, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:203
+msgid ""
+"We are currently experiencing problems trying to connect to this payment "
+"gateway. Sorry for the inconvenience."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:206
+msgid "Authorize.net's Response was empty."
+msgstr ""
+
+#: admin/partials/authorize-net-advanced-payment-gateway-for-woocommerce-admin-lib.php:231
+msgid "Authorize.net payment completed."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Authorize.net Advanced Payment Gateway For WooCommerce"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Authorize.net Advanced Payment Gateway For WooCommerce 1.0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Authorize.net Advanced Payment Gateway For WooCommerce 1.0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://mbjtechnolabs.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Authorize.net Advanced Payment Gateway For WooCommerce extends the "
+"functionality of WooCommerce to accept payments from credit/debit cards and "
+"stay on your site for the transaction."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jignesh Kaila"
+msgstr ""
